@@ -15,7 +15,6 @@ The ADFA Windows Dataset (ADFA-WD) is a contemporary Windows-based dataset speci
     ├── training_data /
     └── test_data/
 ├── results/
-├── models/
 ├── data_loader.py/
 ├── data_preprocessing.py/
 ├── model.py/
@@ -94,6 +93,7 @@ If you use this implementation, please cite:
 
 
 ## Acknowledgments
+- Department of Computer Scienc and Engineering, Indian Institute fo Technology, Ropar
 - ADFA-WD dataset creators and maintainers
 - UNSW-Canberra for hosting the dataset
 - Harvard Dataverse for hosting the dataset as the alternative site
